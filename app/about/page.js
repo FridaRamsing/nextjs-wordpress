@@ -1,0 +1,9 @@
+
+
+export default function PostPage() {
+    return(
+        <main>
+            <h1>about</h1>
+        </main>
+    );
+}
